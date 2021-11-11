@@ -1,0 +1,19 @@
+[
+    {"name": "MERN stack",
+     "link": "https://www.youtube.com/watch?v=I7EDAR2GRVo"
+    },
+    {"name": "Advanced Python",
+     "link": "https://www.youtube.com/watch?v=tdn9_MZ0lN4"
+    },
+
+    {"name": "Intermediate Python",
+    "link": "https://www.youtube.com/watch?v=HGOBQPFzWKo"
+    },
+    {"name": "Multiprocessing in Python",
+    "link": "https://www.youtube.com/playlist?list=PL5tcWHG-UPH3SX16DI6EP1FlEibgxkg_6"
+    },
+    {"name": "Building API in Python",
+    "link": "https://www.youtube.com/watch?v=0sOvCWFmrtA"
+    }
+
+]
